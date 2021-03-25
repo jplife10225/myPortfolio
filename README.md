@@ -1,6 +1,4 @@
-# myPortfolio
-
-<h1>Wu sungyi</h1>
+# myPortfolio WuSungyi
 
 Pytorchでスリーサイズを予測するという試み
 https://colab.research.google.com/drive/1kSgDFKG1lSkf-cTFytL1_6v23H3Ci3Vc?usp=sharing
