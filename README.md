@@ -2,7 +2,7 @@
 wu sungyiです。<br>
 よろしくお願いいたします。<br>
 
-# ウェブのド素人が一ヶ月間ゼロからdjango appをherokuにデプロイしてみた
+# Webド素人が一ヶ月間ゼロからdjango appをherokuにデプロイしてみた
 <strong>url</strong> : https://wusungyi-portfolio.herokuapp.com/<br><br>
 <strong>環境</strong>：<br>
 <strong>OS</strong>：Windows 10(20H2) with Ubuntu 20.04.2 LTS (WSL)<br>
