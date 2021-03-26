@@ -1,5 +1,6 @@
 # Wu Sungyi's Portfolio
 wu sungyiです。<br>
+経済学部です。<br>
 よろしくお願いいたします。<br>
 
 # Webド素人が一ヶ月間ゼロからdjango appをherokuにデプロイしてみた
