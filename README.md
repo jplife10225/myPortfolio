@@ -10,7 +10,7 @@ wu sungyiです。<br>
 Adobe XD /Personal Portfolio Template in Adobe XD(https://xdfile.com/personal-portfolio-template-in-adobe-xd/)<br>
 <strong>言語</strong> : <br>html, css (sass), Python(Django)<br><br>
 <strong>動機</strong>：<br>大学時代にPythonやりましたので、djangoで自分のポートフォリオを作ってみたいと思い、stackflow,qiitaで調べながら作りました。<br>
-<strong>実装方法</strong>:<br>html,cssはある程度理解しているから、今回はAdobe XDとsassを用いて作りました。大体の流れはこんな感じです：<br>
+<strong>実装方法</strong>:<br>ある程度html,cssを理解しているから、今回はAdobe XDとsassを用いて作りました。大体の流れはこんな感じです：<br>
 1.Adobe XDのテンプレートで自分のアイディアを加え、それを画像に書き込みます。<br>
 2.ローカルでVS CodeでLinux(WSL)環境を構築し、Adobe XDのデザイン通りhtmlに移します。<br>
 3.ローカルで仮想環境を構築し、django appのテンプレートを作ります。<br>
