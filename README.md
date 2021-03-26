@@ -10,7 +10,9 @@ Adobe XD /Personal Portfolio Template in Adobe XD(https://xdfile.com/personal-po
 言語 : <br>html, css (sass), Python(Django)<br>
 
 # Pytorchでスリーサイズを予測するという試み
-url : https://colab.research.google.com/drive/1kSgDFKG1lSkf-cTFytL1_6v23H3Ci3Vc?usp=sharing
+url : https://colab.research.google.com/drive/1kSgDFKG1lSkf-cTFytL1_6v23H3Ci3Vc?usp=sharing<br>
+参考資料が準備中です。。
 
 # Pytorch　LSTMモデルで株価を色々挑戦してみた
-url : https://colab.research.google.com/drive/1LNK9CDDc-bcJ_JaVtyxSFJWr7Wt7DSdZ?usp=sharing
+url : https://colab.research.google.com/drive/1LNK9CDDc-bcJ_JaVtyxSFJWr7Wt7DSdZ?usp=sharing<br>
+参考資料が準備中です。。
