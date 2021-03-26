@@ -3,7 +3,7 @@ wu sungyiです。<br>
 よろしくお願いいたします。<br>
 
 # 一ヶ月間ゼロからdjango appをherokuにデプロイしてみた
-<strong>url</strong> : https://wusungyi-portfolio.herokuapp.com/<br>
+<strong>url</strong> : https://wusungyi-portfolio.herokuapp.com/<br><br>
 <strong>環境</strong>：<br>
 <strong>OS</strong>：Windows 10(20H2) with Ubuntu 20.04.2 LTS (WSL)<br>
 <strong>デザイン/テンプレート</strong> :<br>
@@ -22,7 +22,7 @@ Adobe XD /Personal Portfolio Template in Adobe XD(https://xdfile.com/personal-po
 2.javascript及びjqueryの勉強。sassだけは物足りなさがあるので今度は完璧にしたいです。<br>
 
 # Pytorchでスリーサイズを予測するという試み
-<strong>url</strong> : https://colab.research.google.com/drive/1kSgDFKG1lSkf-cTFytL1_6v23H3Ci3Vc?usp=sharing<br>
+<strong>url</strong> : https://colab.research.google.com/drive/1kSgDFKG1lSkf-cTFytL1_6v23H3Ci3Vc?usp=sharing<br><br>
 
 <strong>参考資料 </strong>: https://qiita.com/nardtree/items/a2a5ec50e3b17c662864
 
@@ -33,7 +33,7 @@ ResNet,EfficientNetなどの訓練済みCNNネットワークに転移学習さ�
 1.データの調整。スリーサイズをちゃんと認識してるか否かはブラックボックス化してるところがありますので、今後より質がいいデータを入手したいです。<br>
 2.CNNよりGANのほうがいいかも　しれないので勉強中です。<br>
 # Pytorch　pymc3,LSTMで株価を色々挑戦してみた
-<strong>url</strong> : https://colab.research.google.com/drive/1LNK9CDDc-bcJ_JaVtyxSFJWr7Wt7DSdZ?usp=sharing<br>
+<strong>url</strong> : https://colab.research.google.com/drive/1LNK9CDDc-bcJ_JaVtyxSFJWr7Wt7DSdZ?usp=sharing<br><br>
 <strong>動機</strong>:<br>株価を予測したいですから、最初は統計学と親和性が高いBayseianモデルを試みました。そのうち、ディープラーニングに着目して、LSTMモデルの勉強に移りました。<br>
 <strong>実装方法</strong>:<br>
 1.スクレイピング(pandas reader,stooq or yahoo finance)<br>
