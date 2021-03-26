@@ -1,7 +1,7 @@
 # Wu Sungyi's Portfolio
 wu sungyiです。<br>
 
-# 一ヶ月間0から1にdjango appをherokuにデプロイしてみた
+# 一ヶ月間ゼロからdjango appをherokuにデプロイしてみた
 url : https://wusungyi-portfolio.herokuapp.com/<br>
 環境：<br>
 OS：Windows 10(20H2) with Ubuntu 20.04.2 LTS (WSL)<br>
