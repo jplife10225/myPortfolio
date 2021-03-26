@@ -1,4 +1,4 @@
-# Wu Sungyi's myPortfolio
+# Wu Sungyi's Portfolio
 wu sungyiです。<br>
 
 # 一ヶ月間0から1にdjango appをherokuにデプロイしてみた
