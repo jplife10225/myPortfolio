@@ -31,8 +31,17 @@ url : https://colab.research.google.com/drive/1kSgDFKG1lSkf-cTFytL1_6v23H3Ci3Vc?
 ResNet,EfficientNetなどの訓練済みCNNネットワークに転移学習させ、約20%の正解率を出せました。<br>
 <strong>今後やるべきこと</strong>:<br>
 1.データの調整。スリーサイズをちゃんと認識してるか否かはブラックボックス化してるところがありますので、今後より質がいいデータを入手したいです。<br>
-2.CNNよりGANのほうがいいかもしれないので勉強中です。<br>
-# Pytorch　LSTMモデルで株価を色々挑戦してみた
+2.CNNよりGANのほうがいいかも　しれないので勉強中です。<br>
+# Pytorch　pymc3,LSTMで株価を色々挑戦してみた
 url : https://colab.research.google.com/drive/1LNK9CDDc-bcJ_JaVtyxSFJWr7Wt7DSdZ?usp=sharing<br>
-参考資料は準備中です。。
-
+<strong>動機</strong>:<br>株価を予測したいですから、最初は統計学と親和性が高いBayseianモデルを試みました。そのうち、ディープラーニングに着目して、LSTMモデルの勉強に移りました。<br>
+<strong>実装方法</strong>:<br>
+1.スクレイピング(pandas reader,stooq or yahoo finance)<br>
+2.データ前処理<br>
+3.視覚化<br>
+4.モデルにデータをfitする<br>
+5.銘柄を選ぶ<br>
+6.投資を行うか否かを決める<br>
+<strong>今後やるべきこと</strong>:<br>
+1.sklearnのライブラリとの相違を比較したいです。
+2.マクロ経済学と株価予測については色んな学派があるので、自分の考えは正確とは言えません。ですが基本的な考えとしては、景気と連動してる銘柄はほかの銘柄より情報が多いので、景気の先行きを読んで投資活動を行うのがベストだと思います。
