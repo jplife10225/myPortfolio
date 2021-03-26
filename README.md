@@ -19,7 +19,7 @@ Adobe XD /Personal Portfolio Template in Adobe XD(https://xdfile.com/personal-po
 6.herokuのサーバーにデプロイします。<br>
 <strong>今後やるべきこと</strong>:<br>
 1.AIモデルのデプロイ。元々は実装する予定ですが、忙しくて諦めました。今度は実装したいです。<br>
-2.javascript及びjqueryの勉強。sassだけは物足りなさがあるので今度は完璧にしたいです。<br>
+2.javascript及びjqueryの勉強。sassだけは物足りなさがありますので今度は完璧にしたいです。<br>
 
 # Pytorchでスリーサイズを予測するという試み
 <strong>url</strong> : https://colab.research.google.com/drive/1kSgDFKG1lSkf-cTFytL1_6v23H3Ci3Vc?usp=sharing<br><br>
