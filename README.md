@@ -22,9 +22,9 @@ Adobe XD /Personal Portfolio Template in Adobe XD(https://xdfile.com/personal-po
 2.javascript及びjqueryの勉強。sassだけは物足りなさがあるので今度は完璧にしたいです。<br>
 
 # Pytorchでスリーサイズを予測するという試み
-url : https://colab.research.google.com/drive/1kSgDFKG1lSkf-cTFytL1_6v23H3Ci3Vc?usp=sharing<br>
+<strong>url</strong> : https://colab.research.google.com/drive/1kSgDFKG1lSkf-cTFytL1_6v23H3Ci3Vc?usp=sharing<br>
 
-参考資料 : https://qiita.com/nardtree/items/a2a5ec50e3b17c662864
+<strong>参考資料 </strong>: https://qiita.com/nardtree/items/a2a5ec50e3b17c662864
 
 <strong>動機</strong>：<br>スリーサイズがわかればAIを通じて現場で試着しなくても服のサイズ知れるからです。<br>私にとって服選びはめんどくさいので、<br>ディープラーニングを通じて同じ悩みを抱えてる人々に応援したいです。<br>
 <strong>実装方法</strong>:<br>ネット上で違う人がtensorflow,kerasを用いてやったことがあるらしいので、その人がスクレイピングしたデータをダウンロードしました。<br>
@@ -33,7 +33,7 @@ ResNet,EfficientNetなどの訓練済みCNNネットワークに転移学習さ�
 1.データの調整。スリーサイズをちゃんと認識してるか否かはブラックボックス化してるところがありますので、今後より質がいいデータを入手したいです。<br>
 2.CNNよりGANのほうがいいかも　しれないので勉強中です。<br>
 # Pytorch　pymc3,LSTMで株価を色々挑戦してみた
-url : https://colab.research.google.com/drive/1LNK9CDDc-bcJ_JaVtyxSFJWr7Wt7DSdZ?usp=sharing<br>
+<strong>url</strong> : https://colab.research.google.com/drive/1LNK9CDDc-bcJ_JaVtyxSFJWr7Wt7DSdZ?usp=sharing<br>
 <strong>動機</strong>:<br>株価を予測したいですから、最初は統計学と親和性が高いBayseianモデルを試みました。そのうち、ディープラーニングに着目して、LSTMモデルの勉強に移りました。<br>
 <strong>実装方法</strong>:<br>
 1.スクレイピング(pandas reader,stooq or yahoo finance)<br>
