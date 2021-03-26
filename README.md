@@ -31,7 +31,7 @@ Adobe XD /Personal Portfolio Template in Adobe XD(https://xdfile.com/personal-po
 ResNet,EfficientNetなどの訓練済みCNNネットワークに転移学習させ、約20%の正解率を出せました。<br>
 <strong>今後やるべきこと</strong>:<br>
 1.データの調整。スリーサイズをちゃんと認識してるか否かはブラックボックス化してるところがありますので、今後より質がいいデータを入手したいです。<br>
-2.CNNよりGANのほうがいいかも　しれないので勉強中です。<br>
+2.CNNよりGANのほうがいいかもしれないので勉強中です。<br>
 # pymc3,Pytorch　LSTMで株価を色々挑戦してみた
 <strong>url</strong> : https://colab.research.google.com/drive/1LNK9CDDc-bcJ_JaVtyxSFJWr7Wt7DSdZ?usp=sharing<br><br>
 <strong>動機</strong>:<br>株価を予測したいですから、最初は統計学と親和性が高いBayseianモデルを試みました。そのうち、ディープラーニングに着目して、LSTMモデルの勉強に移りました。<br>
